@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: 11
+Class-Path: zookeeper-3.3.1.jar log4j-1.2.15.jar mail-1.4.jar activati
+ on-1.1.jar jms-1.1.jar jmxtools-1.2.1.jar jmxri-1.2.1.jar jline-0.9.9
+ 4.jar gson-2.8.0.jar netty-all-4.1.0.Beta5.jar tomcat-catalina-8.0.45
+ .jar tomcat-servlet-api-8.0.45.jar tomcat-jsp-api-8.0.45.jar tomcat-j
+ uli-8.0.45.jar tomcat-annotations-api-8.0.45.jar tomcat-api-8.0.45.ja
+ r tomcat-jni-8.0.45.jar tomcat-coyote-8.0.45.jar tomcat-util-8.0.45.j
+ ar tomcat-util-scan-8.0.45.jar tomcat-jasper-8.0.45.jar tomcat-el-api
+ -8.0.45.jar ecj-3.12.3.jar tomcat-jasper-el-8.0.45.jar
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Main-Class: org.apache.hadoop.fs.http.client.MaxTemperature
+
